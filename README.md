@@ -1,4 +1,4 @@
-# Angular-recruitment-task | User profile.
+# User profile twitter look like.
 simple REST API - a basic app for displaying user profile.
 project is created using 
 ```
